@@ -1,2 +1,5 @@
 geipV1
 branch HJH impleinquireSummonerData
+
+오후 5:28 2022-09-18
+geipV1 (HJH -> HJH) "add func [inquire match]"
