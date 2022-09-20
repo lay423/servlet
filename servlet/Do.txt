@@ -3,3 +3,8 @@ branch HJH impleinquireSummonerData
 
 오후 5:28 2022-09-18
 geipV1 (HJH -> HJH) "add func [inquire match]"
+
+오후 11:00 2022-09-20
+geipV1 (HJH -> HJH) "try to apply boot & divide func"
+https://github.com/lay423/geipV1/commit/5b167a0baa3387ce585ae94337ff0b679420ec2c
+
